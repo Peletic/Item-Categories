@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@octokit/auth-unauthenticated": "^5.0.1",
+    "@octokit/request": "^8.1.6",
+    "@octokit/rest": "^20.0.2",
+    "decompress": "^4.2.1",
+    "toml": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
